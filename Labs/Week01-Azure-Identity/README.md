@@ -1,17 +1,25 @@
-# ☁️ Cloud Architect Portfolio
-
-Bienvenue sur mon portfolio.
+# Azure Identity Foundation
 
 ## Objectif
 
-Construire un portfolio professionnel afin d'obtenir un poste de Cloud Architect à Paris en 2027.
+Comprendre l'organisation des ressources Azure.
 
-## Technologies
+## Concepts étudiés
 
-- Microsoft Azure
-- PowerShell
-- Terraform
-- Docker
-- Kubernetes
-- GitHub
-- Azure DevOps
+- Microsoft Entra ID
+- Subscription
+- Resource Group
+- Management Group
+
+## Laboratoire
+
+- [ ] Création de RG DEV
+- [ ] Création de RG PROD
+
+## Ce que j'ai appris
+
+À compléter.
+
+## Difficultés rencontrées
+
+À compléter.
