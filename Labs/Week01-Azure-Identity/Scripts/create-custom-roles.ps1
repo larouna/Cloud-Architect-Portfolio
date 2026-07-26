@@ -5,8 +5,6 @@ Set-AzContext -SubscriptionId "34578069-aef4-4696-b104-0c5fbb23f491"
 
 Get-AzRoleDefinition -Name "Network Contributor" | Format-List Name, Description, Actions, NotActions, DataActions, AssignableScopes
 
-
-
 # Récupère la subscription actuellement sélectionnée
 $subscriptionId = (Get-AzContext).Subscription.Id
 

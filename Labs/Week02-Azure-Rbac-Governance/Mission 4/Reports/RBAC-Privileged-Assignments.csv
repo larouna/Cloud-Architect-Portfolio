@@ -1,0 +1,8 @@
+"DisplayName","ObjectType","RoleDefinitionName","Scope"
+"Marouane el kamel","User","Owner","/subscriptions/34578069-aef4-4696-b104-0c5fbb23f491"
+"Marouane el kamel","User","Contributor","/subscriptions/34578069-aef4-4696-b104-0c5fbb23f491"
+"terraform-aap-regis","ServicePrincipal","Contributor","/subscriptions/34578069-aef4-4696-b104-0c5fbb23f491"
+"GRP-AZ-RBAC-Contributors","Group","Contributor","/subscriptions/34578069-aef4-4696-b104-0c5fbb23f491/resourceGroups/rg-rbac-lab-canadacentral"
+"bc3b75fa37674376a18a92c0","ServicePrincipal","Contributor","/subscriptions/34578069-aef4-4696-b104-0c5fbb23f491/resourcegroups/rg-rbac-lab-canadacentral"
+"Marouane el kamel","User","User Access Administrator","/"
+"Marouane el kamel","User","Owner","/providers/Microsoft.Management/managementGroups/MngGrp11"
