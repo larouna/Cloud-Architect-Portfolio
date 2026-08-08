@@ -193,7 +193,6 @@ Main skills demonstrated:
 
 The Week 02 architecture is based on the following access model:
 
-```text
 Microsoft Entra Tenant
 │
 ├── GRP-AZ-RBAC-Readers
@@ -205,11 +204,10 @@ Microsoft Entra Tenant
 └── GRP-AZ-RBAC-Network-Operators
     └── Custom Lab Network Operator role
         at Lab Resource Group scope
-```
+
 
 Azure resource hierarchy:
 
-```text
 Azure Subscription
 │
 ├── Reader role inherited by child resources
@@ -225,9 +223,8 @@ Azure Subscription
 │
 └── rg-rbac-control-canadacentral
     └── Scope isolation test environment
-```
 
----
+
 
 ## Repository Structure
 
