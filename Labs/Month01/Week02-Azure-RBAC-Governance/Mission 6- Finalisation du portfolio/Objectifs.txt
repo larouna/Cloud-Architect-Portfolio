@@ -1,0 +1,17 @@
+Objectif
+
+À la fin de cette mission, votre dépôt devra présenter clairement :
+
+Les rôles Azure RBAC testés ;
+les scopes et l’héritage ;
+Azure Policy et les Resource Locks ;
+le rôle personnalisé Lab Network Operator ;
+les scripts PowerShell d’audit ;
+les résultats des tests ;
+un diagramme d’architecture ;
+une Pull Request fusionnée dans main.
+
+commande Git:
+git branch --show-current
+git switch week02-rbac-governance
+git status
