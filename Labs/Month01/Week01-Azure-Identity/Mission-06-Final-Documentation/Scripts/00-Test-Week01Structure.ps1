@@ -1,5 +1,3 @@
-
-
 <#
 .SYNOPSIS
 Validates the expected Week01 portfolio directory structure.

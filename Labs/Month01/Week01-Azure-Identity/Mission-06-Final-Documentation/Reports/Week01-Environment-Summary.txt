@@ -1,0 +1,12 @@
+Week01 - Azure Identity Foundation
+Generated: 08/27/2026 19:49:34
+
+===== ACTIVE DIRECTORY =====
+Unable to query Active Directory.
+
+===== AZURE =====
+Subscription: Subscription1
+Account: marwenkm@gmail.com
+
+===== ENTRA CONNECT =====
+ADSync module unavailable on this machine.

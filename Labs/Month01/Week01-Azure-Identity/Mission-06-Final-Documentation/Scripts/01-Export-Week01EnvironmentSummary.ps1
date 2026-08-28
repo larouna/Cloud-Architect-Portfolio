@@ -28,7 +28,8 @@ if (Get-Module -ListAvailable ActiveDirectory)
 
     Import-Module ActiveDirectory
 
-    try {
+    try 
+    {
 
         $domain = Get-ADDomain
         $forest = Get-ADForest
@@ -52,7 +53,8 @@ else {
 $lines.Add("")
 $lines.Add("===== AZURE =====")
 
-if (Get-Module -ListAvailable Az.Accounts) {
+if (Get-Module -ListAvailable Az.Accounts) 
+{
 
     $context = Get-AzContext
 
@@ -101,10 +103,7 @@ else {
     $lines.Add("ADSync module unavailable on this machine.")
 }
 
-$lines |
-    Set-Content `
-        -Path $reportPath `
-        -Encoding UTF8
+$lines | Set-Content -Path $reportPath -Encoding UTF8
 
 Write-Host "Environment report created:"
 Write-Host $reportPath
